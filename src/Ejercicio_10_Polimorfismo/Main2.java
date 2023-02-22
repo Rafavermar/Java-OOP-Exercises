@@ -16,7 +16,6 @@ public class Main2 {
 
         for (int i = 0; 1 < personas.size(); i++) {
             personas.get(i).mostrarInformacion();
-
         }
     }
 }
