@@ -14,8 +14,8 @@ public class Ejercicio_15_IF_Ternario {
 
         int x = 5;
         String res = x > 0 ? (x % 2 == 0 ?
-                (x < 10 ? "El número es positivo, par y menor a 10" : "El número es positivo, par y mayor o igual a 10")
-                : (x < 10 ? "El número es positivo, impar y menor a 10" : "El número es positivo, impar y mayor o igual a 10")) : "El número es negativo o cero";
+                (x < 10 ? "El número es positivo, par y menor a 10" : "El número es positivo, par y mayor o igual a 10") : (x < 10 ? "El número es positivo, impar y menor a 10" : "El número es positivo, impar y mayor o igual a 10"))
+                : "El número es negativo o cero";
         System.out.println(res);
 
     }
