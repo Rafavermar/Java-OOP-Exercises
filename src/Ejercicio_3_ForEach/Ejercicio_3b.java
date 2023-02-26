@@ -1,4 +1,4 @@
-// necesitamos sacar la media de los números:
+package Ejercicio_3_ForEach;// necesitamos sacar la media de los números:
 // 5,8,2,3,7,12,16,24,84
 // necesitamos sacar la media los números:
 // 5,8,2,3,7,12,16,24,84

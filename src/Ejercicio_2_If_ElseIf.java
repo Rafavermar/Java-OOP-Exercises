@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 150 euros para los km que excedan 1000 km
 // Introduzca la cantidad de km y calcule la cantidad total a pagar
 
- public class Ejercicio_2 {
+ public class Ejercicio_2_If_ElseIf {
      public static void main(String[] args) {
          double precio;
 

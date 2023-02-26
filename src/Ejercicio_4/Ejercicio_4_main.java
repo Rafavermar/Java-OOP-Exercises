@@ -1,3 +1,7 @@
+package Ejercicio_4;
+
+import Ejercicio_4.Ejercicio_4;
+
 public class Ejercicio_4_main {
 
     public static void main (String[] args) {

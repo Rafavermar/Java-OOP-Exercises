@@ -1,3 +1,7 @@
+package Ejercicio_5_Semaforo;
+
+import Ejercicio_5_Semaforo.Ejercicio_5_Semaforo;
+
 public class Ejercicio_5_main_Semaforo {
     public static void main(String[] arg) {
         Ejercicio_5_Semaforo semaforo1, semaforo2;

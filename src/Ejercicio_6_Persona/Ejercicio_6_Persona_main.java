@@ -1,3 +1,7 @@
+package Ejercicio_6_Persona;
+
+import Ejercicio_6_Persona.Ejercicio_6_Persona;
+
 public class Ejercicio_6_Persona_main {
 
     public static void main (String[] args) {

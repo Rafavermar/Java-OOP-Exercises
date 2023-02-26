@@ -1,4 +1,4 @@
-// necesitamos sacar el número mas alto de los números:
+package Ejercicio_3_ForEach;// necesitamos sacar el número mas alto de los números:
 // 5,8,2,3,7,12,16,24,84
 
 public class Ejercicio_3 {

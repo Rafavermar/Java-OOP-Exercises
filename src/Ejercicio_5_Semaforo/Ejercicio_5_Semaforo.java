@@ -1,3 +1,4 @@
+package Ejercicio_5_Semaforo;
 
 enum ColorSemaforo {ROJO, AMARILLO, VERDE}
 public class Ejercicio_5_Semaforo {

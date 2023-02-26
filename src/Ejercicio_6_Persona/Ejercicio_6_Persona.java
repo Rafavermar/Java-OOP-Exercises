@@ -1,3 +1,5 @@
+package Ejercicio_6_Persona;
+
 public class Ejercicio_6_Persona {
     String nombre;
     String apellidos;
