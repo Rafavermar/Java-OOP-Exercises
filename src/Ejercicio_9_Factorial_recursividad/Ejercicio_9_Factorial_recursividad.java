@@ -1,3 +1,5 @@
+package Ejercicio_9_Factorial_recursividad;
+
 import java.util.Scanner;
 
 public class Ejercicio_9_Factorial_recursividad {

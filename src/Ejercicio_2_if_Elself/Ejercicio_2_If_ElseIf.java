@@ -1,3 +1,5 @@
+package Ejercicio_2_if_Elself;
+
 import java.util.Scanner;
 // Usted alquila vehiculos cobrando por dicho concepto:
 // 300 euros para los primeros 300 km de recorrido;

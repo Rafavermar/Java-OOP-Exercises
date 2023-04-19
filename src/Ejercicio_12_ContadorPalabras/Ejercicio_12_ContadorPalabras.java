@@ -1,3 +1,5 @@
+package Ejercicio_12_ContadorPalabras;
+
 import java.util.Scanner;
 
 public class Ejercicio_12_ContadorPalabras {

@@ -1,3 +1,5 @@
+package Ejercicio_7_Excepciones_Try_catch;
+
 public class Ejercicio_7_Excepciones_Try_catch {
 
     public static void main (String [] args) {

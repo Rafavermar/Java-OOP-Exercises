@@ -1,3 +1,5 @@
+package Ejercicio_15_IF_Temario;
+
 import javax.swing.*;
 import java.util.Scanner;
 

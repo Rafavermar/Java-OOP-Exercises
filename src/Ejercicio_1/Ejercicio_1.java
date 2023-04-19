@@ -1,3 +1,5 @@
+package Ejercicio_1;
+
 import java.util.Scanner;
 
 // Una institución social tiene centro de salud, comedor infantil, escuela infantil y asilo de ancianos.
