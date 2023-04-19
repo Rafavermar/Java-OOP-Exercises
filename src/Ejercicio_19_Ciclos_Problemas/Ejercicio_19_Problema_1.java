@@ -20,12 +20,16 @@ public class Ejercicio_19_Problema_1 {
         for (int i = 0; i < calificaciones.length; i++) {
             System.out.println("Introduce la calificación " + (i+1));
             calificaciones[i] = sc.nextFloat();
-            /* pendiente de terminar ejercicio, a continuacion foreach */
+
+        } //ciclo foreach
+        for (float f : calificaciones) {
+            suma += f;
+            System.out.println(suma);
+
         }
 
-
-
-
+        media = suma / calificaciones.length;
+        System.out.println("La media del alumno es: " + media);
 
     }
 }
